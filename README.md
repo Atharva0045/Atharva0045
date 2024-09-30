@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning advance PyTorch concepts**
 
-- 📫 How to reach me **atharva0276@gmail.com**
+- 📫 How to reach me: **atharva0276@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
