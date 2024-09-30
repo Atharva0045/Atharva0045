@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **PyTorch**!
 
-- 👯 I’m looking to collaborate on **any kind of PyTorch Projects**
+- 👯 I’m looking to collaborate on **any kind of PyTorch Projects**!!
 
-- 🤝 I’m looking for help with **learning advance PyTorch concepts**
+- 🤝 I’m looking for help with **learning advance PyTorch concepts**!!!
 
 - 📫 How to reach me: **atharva0276@gmail.com**
 
